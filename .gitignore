@@ -8,3 +8,5 @@ venv/
 Thumbs.db
 
 data/raw/*.csv
+*.pkl
+model/
